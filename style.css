@@ -14,8 +14,8 @@ form{
     margin: 50px auto;
     padding: 0 0 10px;
     border: 3px solid rgba(62, 68, 74, 0.92);
-    border-radius: 5px;
-    background-color: rgba(83, 92, 100, 0.92);
+    border-radius: 20px;
+    background-color: rgba(177, 204, 236, 0.92);
     
 }
 
@@ -33,11 +33,11 @@ form img{
 .box1 *{
     width: 48%;
     margin: 10px auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .box {
     display: flex;
-    
 }
 
 .box *{
@@ -51,7 +51,7 @@ form img{
     justify-content: center;
 }
 .checkbox-acuerdos *{
-    padding: 0 5px;
+    padding: 0 2px;
 }
 
 .registro{
@@ -59,3 +59,4 @@ form img{
     display: flex;
     justify-content: center;
 }
+
